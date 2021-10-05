@@ -1,0 +1,9 @@
+.El {
+    font-size: 60px;
+    color: rgb(128, 37, 212);
+}
+.img_as {
+    height: 400px;
+    width: 400px;
+    object-fit: contain;
+}
